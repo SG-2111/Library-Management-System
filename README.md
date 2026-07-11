@@ -137,7 +137,8 @@ DB_PASSWORD=your_password
 cd backend
 
 npm start
-npm run dev
+npm run dev (or)
+node server.js
 
 ```
 
